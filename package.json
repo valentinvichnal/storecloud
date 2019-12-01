@@ -1,7 +1,7 @@
 {
   "name": "storecloud",
   "author": "Valentin Vichnal <valentin@vichnal.com>",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "SEE LICENSE IN LICENSE",
   "description": "Allows upload directly from the browser to Google Cloud Storage",
   "main": "storecloud.js",
