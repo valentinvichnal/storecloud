@@ -1,0 +1,14 @@
+{
+  "name": "storecloud",
+  "author": "Valentin Vichnal <valentin@vichnal.com>",
+  "version": "0.0.0",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Allows upload directly from the browser to Google Cloud Storage",
+  "main": "storecloud.js",
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "mime": "^1.3.4",
+    "moment": "^2.13.0",
+    "restler": "^3.4.0"
+  }
+}
